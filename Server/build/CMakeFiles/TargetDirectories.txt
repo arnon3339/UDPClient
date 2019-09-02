@@ -1,0 +1,2 @@
+/home/g0/Desktop/BoostAio/UDPalpide2/Server/build/CMakeFiles/rebuild_cache.dir
+/home/g0/Desktop/BoostAio/UDPalpide2/Server/build/CMakeFiles/edit_cache.dir

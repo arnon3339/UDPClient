@@ -1,0 +1,2 @@
+#define PACK_SIZE 4096
+#define BUFFER_SIZE 65540
